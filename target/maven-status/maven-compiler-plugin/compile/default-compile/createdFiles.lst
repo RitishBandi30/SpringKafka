@@ -1,0 +1,5 @@
+com\example\kafka\SpringKafkaApplication.class
+com\example\kafka\producer\Sender.class
+com\example\kafka\producer\SenderConfig.class
+com\example\kafka\consumer\ReceiverConfig.class
+com\example\kafka\consumer\Receiver.class
